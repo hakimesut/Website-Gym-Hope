@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
+
+
+header.sticky{
+    background:linear-gradient(to bottom, #673400,#964B00, #B5651D);
+
+    box-shadow: #883400; 
+    border-bottom: 2px solid #FFFF;
+    transition: 0.3s;
+  
+}
+
+
+
+header.sticky ul li a {
+    color:#FFFF;
+}
+
+/* hover time scroll */
